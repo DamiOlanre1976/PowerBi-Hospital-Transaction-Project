@@ -126,10 +126,13 @@ This project summarizes the **key business insights** derived from the Power BI 
 These insights and recommendations aim to improve hospital operations, financial outcomes, and patient experience. By aligning strategic decisions with data, hospitals can better allocate resources, enhance patient satisfaction, and maximize healthcare outcomes.
 
 ---
-
-📈 **Project File**: [HospitalDashboard.pbix](./HospitalDashboard.pbix)  
+ 
 🧠 **Full Dashboard**: See the main repository for visuals and data model
 
-📬 **Contact**: your.email@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+## 👨‍💻 Author
+
+**[Damilola Lasode]**  
+📧 [damilolalasode10@gmail.com]  
+🌐 GitHub: [https://github.com/DamiOlanre1976](https://github.com/DamiOlanre1976)
 
