@@ -24,7 +24,7 @@ This Power BI project presents a comprehensive **Hospital Transaction Dashboard*
 
 The data model is structured using a star schema centered around a transactional fact table and linked dimension tables.
 
-![Data Model Screenshot](./screenshots/data_model.jpg)
+![Data Model Screenshot](https://github.com/DamiOlanre1976/PowerBi-Hospital-Transaction-Project/blob/main/Hospital%20Transaction%20Star%20Schema%20-%20Data%20Modeling.JPG)
 
 ### 📁 Fact Table – `Hospital_Fact`
 
