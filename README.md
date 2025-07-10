@@ -50,16 +50,16 @@ The data model is structured using a star schema centered around a transactional
 ---
 ## 🧮 DAX Measures
 
-```dax
+dax
 -- Financial Metrics
-Total Revenue = SUM(Hospital_Fact[RevenueAmount])
-Total Expenses = SUM(Hospital_Fact[ExpenseAmount])
-Total Profit = [Total Revenue] - [Total Expenses]
-Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
+- Total Revenue = SUM(Hospital_Fact[RevenueAmount])
+- Total Expenses = SUM(Hospital_Fact[ExpenseAmount])
+- Total Profit = [Total Revenue] - [Total Expenses]
+- Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 -- Doctor & Patient Counts
-No of Doctors = DISTINCTCOUNT(Doctor_Dim[DoctorID])
-No of Patients = DISTINCTCOUNT(Patient_Dim[PatientID])
+- No of Doctors = DISTINCTCOUNT(Doctor_Dim[DoctorID])
+- No of Patients = DISTINCTCOUNT(Patient_Dim[PatientID])
 
 ---
 # 📊 Key Insights & Recommendations
