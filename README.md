@@ -2,7 +2,7 @@
 
 # 🏥 Hospital Transaction Dashboard – Power BI Project
 
-![Dashboard Overview](./screenshots/dashboard_overview.jpg)
+![Dashboard Overview](https://github.com/DamiOlanre1976/PowerBi-Hospital-Transaction-Project/blob/main/Hospital%20Transaction%20Dashboard%202.JPG)
 
 ## 📘 Project Summary
 
