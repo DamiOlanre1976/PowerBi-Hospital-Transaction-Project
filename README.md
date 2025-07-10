@@ -51,7 +51,7 @@ The data model is structured using a star schema centered around a transactional
 
 ## 🧮 DAX Measures
 
-```dax
+dax
 -- Financial Metrics
 Total Revenue = SUM(Hospital_Fact[RevenueAmount])
 Total Expenses = SUM(Hospital_Fact[ExpenseAmount])
