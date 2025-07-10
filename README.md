@@ -48,10 +48,9 @@ The data model is structured using a star schema centered around a transactional
 - **Calendar Table** – Date hierarchy with day, month, quarter, and year
 
 ---
-
 ## 🧮 DAX Measures
 
-dax
+```dax
 -- Financial Metrics
 Total Revenue = SUM(Hospital_Fact[RevenueAmount])
 Total Expenses = SUM(Hospital_Fact[ExpenseAmount])
